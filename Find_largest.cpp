@@ -14,7 +14,7 @@ int main(){
     for(int j=0;j<c;j++)
     scanf("%d",&mat[i][j]);
     printf("\n");
-
+ 
     int max=0;
     for(int i=0;i<r;i++)
     for(int j=0;j<c;j++)
