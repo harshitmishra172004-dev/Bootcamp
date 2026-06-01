@@ -1,5 +1,3 @@
-//Remove vowels from a string
-
 import java.util.Scanner;
 class removeVowels{
     public static void main(String[] args){

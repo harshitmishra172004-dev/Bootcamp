@@ -1,4 +1,4 @@
-// Sort 0s, 1s and 2s (DNF Algorithm)
+// Sort 0's, 1's and 2's (By DNF Algorithm)
 
 #include <iostream>
 using namespace std;

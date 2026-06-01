@@ -1,5 +1,4 @@
 // Remove Duplicate Characters
-
 #include <iostream>
 #include <string>
 #include <unordered_set>

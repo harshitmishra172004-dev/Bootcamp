@@ -1,4 +1,4 @@
-//Diagonal Difference in Matrix
+// Difference between the diagonal in Matrix
 
 #include <iostream>
 using namespace std;

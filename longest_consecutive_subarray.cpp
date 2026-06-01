@@ -1,4 +1,4 @@
-//longest consecutive increasing subarray
+//longest consecutive subarray
 
 #include <iostream>
 using namespace std;

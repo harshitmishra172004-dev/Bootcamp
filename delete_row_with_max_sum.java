@@ -1,6 +1,4 @@
-//Delete the row with max sum in a matrix
-
-import java.util.Scanner;
+import java.util.*;
 
 class deleteRow {
     public static void main(String[] args) {
@@ -18,7 +16,7 @@ class deleteRow {
         for (int i = 0; i < rows; i++) {
             int sum = 0;
             for (int j = 0; j < cols; j++) {
-                sum += matrix[i][j];
+                sum = sum+ matrix[i][j];
             }
             if (sum > max) {
                 max = sum;

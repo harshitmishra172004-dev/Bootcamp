@@ -1,8 +1,6 @@
-//Difference of first and last elements in an array 
-
 import java.util.Scanner;
 
-class Diff {
+class Difference {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

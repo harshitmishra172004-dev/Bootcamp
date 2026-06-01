@@ -1,4 +1,4 @@
-//Rotate Matrix by 180deg
+//Rotate Matrix by 180 degree 
 
 #include <iostream>
 using namespace std;
